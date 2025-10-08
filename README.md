@@ -1,2 +1,4 @@
 # CameraDetection
 用于检测汽车摄像头在高温状态下是否可正常工作，并对帧率、电流、图像色彩、是否存在花屏进行判定。
+
+![Uploading cameraht.png…]()
